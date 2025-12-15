@@ -19,4 +19,5 @@ O trabalho então foi feito no notebook `trash-garbage-type-detection-using-cnn.
 
 O repositório possui os seguintes arquivos:
 - `trash-garbage-type-detection-using-cnn.ipynb`: Notebook desenvolvido para treinamento do modelo CNN. Foi feito no Google Colab e baixado dele.
+- `trash-garbage-type-detection-using-cnn-fixed.ipynb`: Mesmo notebook mas arrumado o problema dos arquivos .h5 que não são suportados.
 - `requirements.txt`: Um arquivo de dependências para rodar o notebook, em caso queira rodar localmente em vez de utilizar o Google Colab.
